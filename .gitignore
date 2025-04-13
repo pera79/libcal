@@ -1,0 +1,38 @@
+# Ignore build directory
+/build/
+/build-*/
+
+# CMake-generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+install_manifest.txt
+
+# VS Code & CLion
+.vscode/
+.idea/
+
+# Compiled object files
+*.o
+*.obj
+*.lo
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+*.exe
+*.out
+
+# Generated binaries
+*.bin
+*.elf
+*.hex
+
+# Logs
+*.log
+
+# OS junk
+.DS_Store
+Thumbs.db
