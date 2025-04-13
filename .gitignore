@@ -15,23 +15,10 @@ install_manifest.txt
 
 # Compiled object files
 *.o
-*.obj
-*.lo
 *.a
 *.lib
 *.so
-*.dll
-*.dylib
 *.exe
-*.out
-
-# Generated binaries
-*.bin
-*.elf
-*.hex
-
-# Logs
-*.log
 
 # OS junk
 .DS_Store
